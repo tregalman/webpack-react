@@ -1,0 +1,25 @@
+{
+  "name": "webpack-react",
+  "version": "1.0.0",
+  "description": "WebPack React.js workflow project.",
+  "main": "app/main.js",
+  "keywords": [
+    "React.js",
+    "WebPack"
+  ],
+  "authors": [
+    "Trenell Galman"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.1"
+  }
+}

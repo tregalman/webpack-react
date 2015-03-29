@@ -1,0 +1,18 @@
+{
+  "name": "webpack-react",
+  "version": "1.0.0",
+  "description": "WebPack React.js workflow",
+  "main": "app/main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "keywords": [
+    "webpack",
+    "react.js"
+  ],
+  "author": "Trenell Galman",
+  "dependencies": {
+    "jsx-loader": "^0.12.2",
+    "react": "^0.13.1"
+  }
+}
